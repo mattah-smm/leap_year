@@ -1,5 +1,5 @@
 import math
-from typing import List, Tuplez
+from typing import List, Tuple
 
 
 def prompt_names_and_scores() -> Tuple[List[str], List[float]]:
